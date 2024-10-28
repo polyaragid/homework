@@ -25,4 +25,10 @@ def f(name):
     return name
 
 input_name = input("Введите имя переменной: ")
+
 print(f(input_name))
+
+
+
+
+
